@@ -1,0 +1,45 @@
+.csy-data-consent {
+	display: block;
+	margin: 16px 0;
+	color: inherit;
+	font: inherit;
+}
+
+.csy-data-consent label {
+	display: flex;
+	gap: 9px;
+	align-items: flex-start;
+	cursor: pointer;
+	line-height: 1.45;
+}
+
+.csy-data-consent input[type="checkbox"] {
+	flex: 0 0 auto;
+	width: 17px;
+	height: 17px;
+	margin: 2px 0 0;
+	accent-color: #126782;
+}
+
+.csy-data-consent a {
+	color: inherit;
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 2px;
+}
+
+.csy-data-consent input[type="checkbox"]:focus-visible {
+	outline: 2px solid #126782;
+	outline-offset: 2px;
+}
+
+.csy-woocommerce-block-consent-note {
+	margin: 8px 0 0;
+	font-size: .875em;
+}
+
+.csy-woocommerce-block-consent-note a {
+	color: inherit;
+	text-decoration: underline;
+	text-underline-offset: 2px;
+}

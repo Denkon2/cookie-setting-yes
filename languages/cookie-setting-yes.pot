@@ -1,0 +1,935 @@
+msgid ""
+msgstr "Project-Id-Version: Cookie Setting Yes 0.5.0\nReport-Msgid-Bugs-To: https://wordpress.org/support/plugin/cookie-setting-yes/\nPOT-Creation-Date: 2026-11-14 00:00+0000\nPO-Revision-Date: 2026-11-14 00:00+0000\nLast-Translator: Denkon <https://denkon.ru>\nLanguage: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Domain: cookie-setting-yes\n"
+
+#: templates/admin-page.php:10
+msgid "152-FZ"
+msgstr ""
+
+#: templates/admin-page.php:41
+msgid "%1$d of %2$d"
+msgstr ""
+
+#: templates/admin-page.php:30
+msgid "%d of 4 steps"
+msgstr ""
+
+#: templates/admin-page.php:160
+msgid "0 means keep without automatic deletion."
+msgstr ""
+
+#: includes/class-policy-generator.php:40
+msgid "1. Operator and contacts"
+msgstr ""
+
+#: includes/class-policy-generator.php:42
+msgid "2. Purposes of processing"
+msgstr ""
+
+#: includes/class-policy-generator.php:43
+msgid "3. Composition of processed data"
+msgstr ""
+
+#: includes/class-policy-generator.php:44
+msgid "4. Processing period and rights of the subject"
+msgstr ""
+
+#: includes/class-service-catalog.php:26
+msgid "A container can run multiple third party tags; check its composition."
+msgstr ""
+
+#: templates/admin-page.php:125
+msgid "A record is created when a visitor agrees and submits a form or places an order. The choice in the cookie banner is recorded separately in the adjacent log."
+msgstr ""
+
+#: includes/class-admin.php:205
+msgid "A separate data consent flow is enabled and its version and text are complete."
+msgstr ""
+
+#: templates/admin-page.php:153
+msgid "Accent and buttons"
+msgstr ""
+
+#: includes/class-options.php:50 templates/consent-interface.php:5
+msgid "Accept all"
+msgstr ""
+
+#: templates/admin-page.php:158
+msgid "Accept button"
+msgstr ""
+
+#: templates/admin-page.php:183
+msgid "Action"
+msgstr ""
+
+#: templates/admin-page.php:122
+msgid "Add the [csy_consent] tag to your form template. Sending without a mark will be stopped."
+msgstr ""
+
+#: templates/admin-page.php:119
+msgid "Adds a separate confirmation for forms and captures the proof of choice."
+msgstr ""
+
+#: templates/admin-page.php:149
+msgid "Advanced Control"
+msgstr ""
+
+#: includes/class-service-catalog.php:32
+msgid "Advertising audiences and measurement of Meta campaigns."
+msgstr ""
+
+#: includes/class-iframe-blocker.php:26
+msgid "Allow external content"
+msgstr ""
+
+#: includes/class-options.php:88
+msgid "Analytics"
+msgstr ""
+
+#: templates/admin-page.php:193
+msgid "Automatic checks"
+msgstr ""
+
+#: templates/admin-page.php:39
+msgid "Automatic checks passed. Manual checks: %1$d of %2$d."
+msgstr ""
+
+#: templates/admin-page.php:151
+msgid "Banner background"
+msgstr ""
+
+#: templates/admin-page.php:155
+msgid "Banner border radius"
+msgstr ""
+
+#: includes/class-admin.php:180
+msgid "Banner enabled"
+msgstr ""
+
+#: templates/admin-page.php:50
+msgid "Banner is turned off"
+msgstr ""
+
+#: templates/admin-page.php:164
+msgid "Banner positioning"
+msgstr ""
+
+#: templates/admin-page.php:105
+msgid "Banner text"
+msgstr ""
+
+#: templates/admin-page.php:104
+msgid "Banner title"
+msgstr ""
+
+#: templates/admin-page.php:81 templates/admin-page.php:93
+msgid "Basics"
+msgstr ""
+
+#: templates/admin-page.php:187
+msgid "Before publication"
+msgstr ""
+
+#: includes/class-service-catalog.php:67
+msgid "Bitrix24 widget"
+msgstr ""
+
+#: templates/admin-page.php:129
+msgid "Blocked until consent"
+msgstr ""
+
+#: includes/class-admin.php:221
+msgid "Both policies are opened, links from the banner are checked and CSV logs are downloaded."
+msgstr ""
+
+#: templates/admin-page.php:167
+msgid "Bottom"
+msgstr ""
+
+#: templates/admin-page.php:154
+msgid "Button text color"
+msgstr ""
+
+#: includes/class-service-catalog.php:56
+msgid "Call tracking and analytics of requests."
+msgstr ""
+
+#: includes/class-service-catalog.php:55
+msgid "Calltouch"
+msgstr ""
+
+#: templates/admin-page.php:183
+msgid "Categories"
+msgstr ""
+
+#: includes/class-policy-generator.php:27
+msgid "Category"
+msgstr ""
+
+#: templates/admin-page.php:166 templates/admin-page.php:167
+msgid "Center"
+msgstr ""
+
+#: templates/admin-page.php:209
+msgid "Changes are applied after saving."
+msgstr ""
+
+#: templates/admin-page.php:26 templates/admin-page.php:88
+msgid "Check"
+msgstr ""
+
+#: templates/admin-page.php:33
+msgid "Check completed: %s"
+msgstr ""
+
+#: templates/admin-page.php:96
+msgid "Check the texts and legal basis with a lawyer for your project."
+msgstr ""
+
+#: includes/class-admin.php:217
+msgid "Checked \"Reject\", saving selected categories and reopening settings."
+msgstr ""
+
+#: includes/class-admin.php:249
+msgid "Checked initial denied state and updated consent after user selection."
+msgstr ""
+
+#: includes/class-admin.php:228
+msgid "Checked that selected script handles are not executed before consent and are run after it."
+msgstr ""
+
+#: templates/admin-page.php:187
+msgid "Checking readiness"
+msgstr ""
+
+#: templates/admin-page.php:176
+msgid "Checks and logs"
+msgstr ""
+
+#: templates/consent-interface.php:27
+msgid "Choose which optional categories may be used. You can change your choice at any time."
+msgstr ""
+
+#: templates/admin-page.php:178
+msgid "Clear all cookie log entries? This action cannot be undone."
+msgstr ""
+
+#: templates/admin-page.php:117
+msgid "Clear all records of consent to data processing? This action cannot be undone."
+msgstr ""
+
+#: templates/admin-page.php:178
+msgid "Clear cookie log"
+msgstr ""
+
+#: templates/admin-page.php:117
+msgid "Clear data consent log"
+msgstr ""
+
+#: templates/consent-interface.php:26
+msgid "Close"
+msgstr ""
+
+#: includes/class-admin.php:50
+msgid "Collapse section"
+msgstr ""
+
+#: templates/admin-page.php:144
+msgid "Compatibility is automatically enabled when the API is installed on the site."
+msgstr ""
+
+#: templates/admin-page.php:26
+msgid "Complete automatic and manual checks."
+msgstr ""
+
+#: templates/admin-page.php:39
+msgid "Complete the required settings. Manual checks: %1$d of %2$d."
+msgstr ""
+
+#: includes/class-policy-generator.php:18
+msgid "Configure cookies"
+msgstr ""
+
+#: templates/admin-page.php:25
+msgid "Configure personal data consent."
+msgstr ""
+
+#: includes/class-data-consent.php:154 includes/class-data-consent.php:181
+msgid "Confirm your consent to the processing of personal data."
+msgstr ""
+
+#: includes/class-admin.php:227
+msgid "Connected services"
+msgstr ""
+
+#: includes/class-data-consent.php:71
+msgid "Consent disabled."
+msgstr ""
+
+#: templates/admin-page.php:93
+msgid "Consent framework"
+msgstr ""
+
+#: templates/admin-page.php:121
+msgid "Consent text"
+msgstr ""
+
+#: includes/class-data-consent.php:112
+msgid "Consent to the processing of personal data is required."
+msgstr ""
+
+#: templates/admin-page.php:53
+msgid "Consent, trackers and proof of visitor choice in one local dashboard."
+msgstr ""
+
+#: templates/admin-page.php:125
+msgid "Context"
+msgstr ""
+
+#: templates/admin-page.php:178
+msgid "Control and evidence"
+msgstr ""
+
+#: includes/class-policy-generator.php:27 templates/admin-page.php:107 templates/consent-interface.php:14
+msgid "Cookie Policy"
+msgstr ""
+
+#: includes/class-admin.php:216
+msgid "Cookie selection"
+msgstr ""
+
+#: includes/class-admin.php:30 includes/class-admin.php:31 templates/admin-page.php:47
+msgid "Cookie Setting Yes"
+msgstr ""
+
+#: includes/class-consent-manager.php:38 includes/class-options.php:51 templates/consent-interface.php:6 templates/consent-interface.php:8
+msgid "Cookie settings"
+msgstr ""
+
+#: includes/class-admin.php:186
+msgid "Cookie terms are complete"
+msgstr ""
+
+#: templates/admin-page.php:117 templates/admin-page.php:178
+msgid "CSV"
+msgstr ""
+
+#: templates/admin-page.php:161
+msgid "Custom banner CSS"
+msgstr ""
+
+#: templates/admin-page.php:13 templates/admin-page.php:96
+msgid "Custom mode"
+msgstr ""
+
+#: includes/class-options.php:49 templates/consent-interface.php:4
+msgid "Customize"
+msgstr ""
+
+#: templates/admin-page.php:157
+msgid "Customize button"
+msgstr ""
+
+#: templates/admin-page.php:87 templates/admin-page.php:178
+msgid "Data and log"
+msgstr ""
+
+#: templates/admin-page.php:83
+msgid "Data consent"
+msgstr ""
+
+#: includes/class-admin.php:204
+msgid "Data consent configured"
+msgstr ""
+
+#: templates/admin-page.php:120
+msgid "Data consent version"
+msgstr ""
+
+#: includes/class-policy-generator.php:45
+msgid "Data subjects may contact the operator to request clarification, blocking, or deletion of their data where provided by law."
+msgstr ""
+
+#: templates/admin-page.php:160
+msgid "days"
+msgstr ""
+
+#: templates/admin-page.php:181
+msgid "Delete settings and log when uninstalling a plugin."
+msgstr ""
+
+#: templates/admin-page.php:181
+msgid "Deleting data"
+msgstr ""
+
+#: templates/admin-page.php:180
+msgid "Do not store"
+msgstr ""
+
+#: includes/class-admin.php:220
+msgid "Documents and logs"
+msgstr ""
+
+#: templates/admin-page.php:95
+msgid "Enable banner"
+msgstr ""
+
+#: templates/admin-page.php:119
+msgid "Enable Data Consent"
+msgstr ""
+
+#: includes/class-service-catalog.php:50
+msgid "End-to-end analytics and call tracking."
+msgstr ""
+
+#: includes/class-service-catalog.php:38
+msgid "Evaluation of VK advertising campaigns."
+msgstr ""
+
+#: templates/admin-page.php:199
+msgid "Execute each scenario on the site and mark only after actual verification."
+msgstr ""
+
+#: includes/class-admin.php:49
+msgid "Expand section"
+msgstr ""
+
+#: includes/class-options.php:98
+msgid "External content"
+msgstr ""
+
+#: includes/class-data-consent.php:79
+msgid "Failed to confirm consent."
+msgstr ""
+
+#: includes/class-consent-manager.php:77
+msgid "Failed to save consent."
+msgstr ""
+
+#: templates/admin-page.php:24
+msgid "Fill in the operator details and provide links."
+msgstr ""
+
+#: includes/class-admin.php:212
+msgid "First visit"
+msgstr ""
+
+#: includes/class-admin.php:234 templates/admin-page.php:25
+msgid "Forms"
+msgstr ""
+
+#: templates/admin-page.php:117
+msgid "Forms and orders"
+msgstr ""
+
+#: includes/class-options.php:83
+msgid "Functional"
+msgstr ""
+
+#: includes/class-service-catalog.php:19
+msgid "Google Analytics / Google tag"
+msgstr ""
+
+#: includes/class-service-catalog.php:20
+msgid "Google Analytics connected as a separate WordPress script."
+msgstr ""
+
+#: includes/class-admin.php:248
+msgid "Google Consent Mode"
+msgstr ""
+
+#: includes/class-service-catalog.php:25
+msgid "Google Tag Manager"
+msgstr ""
+
+#: templates/admin-page.php:180
+msgid "Hash"
+msgstr ""
+
+#: templates/admin-page.php:180
+msgid "Hashing is suitable for most sites."
+msgstr ""
+
+#: includes/class-options.php:89
+msgid "Helps understand how visitors use the site."
+msgstr ""
+
+#: templates/admin-page.php:166
+msgid "Horizontal"
+msgstr ""
+
+#: includes/class-options.php:25
+msgid "I consent to the processing of personal data in accordance with %privacy_policy%."
+msgstr ""
+
+#: includes/class-admin.php:213
+msgid "In the private window, a banner is shown, and optional services are not loaded until selected."
+msgstr ""
+
+#: templates/admin-page.php:97
+msgid "Increase when goals, services, or text change."
+msgstr ""
+
+#: templates/admin-page.php:120
+msgid "Increase when text, goals, or policies change."
+msgstr ""
+
+#: includes/class-admin.php:76 includes/class-admin.php:326 includes/class-admin.php:342 includes/class-admin.php:366
+msgid "Insufficient permissions."
+msgstr ""
+
+#: templates/admin-page.php:85 templates/admin-page.php:139
+msgid "Integrations"
+msgstr ""
+
+#: templates/admin-page.php:180
+msgid "IP address in log"
+msgstr ""
+
+#: templates/admin-page.php:154
+msgid "It can be configured separately so that the inscription does not merge with the background of the button."
+msgstr ""
+
+#: includes/class-service-catalog.php:61
+msgid "Jivo"
+msgstr ""
+
+#: templates/admin-page.php:183
+msgid "Latest consents"
+msgstr ""
+
+#: templates/admin-page.php:125
+msgid "Latest data consents"
+msgstr ""
+
+#: templates/admin-page.php:67
+msgid "Launch Wizard"
+msgstr ""
+
+#: templates/admin-page.php:68
+msgid "Launch Wizard Free"
+msgstr ""
+
+#: templates/admin-page.php:166
+msgid "Left"
+msgstr ""
+
+#: templates/admin-page.php:23
+msgid "Legal framework"
+msgstr ""
+
+#: templates/admin-page.php:61 templates/admin-page.php:96
+msgid "Legal regime"
+msgstr ""
+
+#: includes/class-admin.php:192
+msgid "Links to policies are provided"
+msgstr ""
+
+#: templates/admin-page.php:161
+msgid "Loads only on the public part of the site after the plugin styles."
+msgstr ""
+
+#: includes/class-admin.php:369
+msgid "Log cleaning is available in the Pro version."
+msgstr ""
+
+#: templates/admin-page.php:63
+msgid "Log entries"
+msgstr ""
+
+#: includes/class-service-catalog.php:44
+msgid "Mail.Ru traffic statistics."
+msgstr ""
+
+#: templates/admin-page.php:199
+msgid "Manual scenarios"
+msgstr ""
+
+#: templates/admin-page.php:135
+msgid "Manual WordPress script handles"
+msgstr ""
+
+#: includes/class-options.php:93
+msgid "Marketing"
+msgstr ""
+
+#: templates/admin-page.php:204
+msgid "Marks are saved separately from automatic checking. If you change the conditions, services or text of the consent, they will be reset."
+msgstr ""
+
+#: includes/class-service-catalog.php:31
+msgid "Meta Pixel"
+msgstr ""
+
+#: templates/admin-page.php:142
+msgid "ms"
+msgstr ""
+
+#: includes/class-options.php:21
+msgid "Name, phone number, email address and other data that the visitor voluntarily provides in the site forms."
+msgstr ""
+
+#: includes/class-options.php:78
+msgid "Necessary"
+msgstr ""
+
+#: includes/class-options.php:99
+msgid "Needed for maps, videos, widgets and other materials from third-party services."
+msgstr ""
+
+#: includes/class-admin.php:51
+msgid "of"
+msgstr ""
+
+#: templates/admin-page.php:135
+msgid "One line: handle=category. The manual rule takes precedence over the directory."
+msgstr ""
+
+#: includes/class-service-catalog.php:62
+msgid "Online chat and communication with the visitor."
+msgstr ""
+
+#: includes/class-service-catalog.php:68
+msgid "Online chat, forms and call back."
+msgstr ""
+
+#: templates/admin-page.php:142
+msgid "Only used before the first selection. 500ms is recommended."
+msgstr ""
+
+#: templates/admin-page.php:195
+msgid "Open"
+msgstr ""
+
+#: templates/admin-page.php:72
+msgid "Open checks"
+msgstr ""
+
+#: templates/consent-interface.php:39
+msgid "Open cookie settings"
+msgstr ""
+
+#: templates/admin-page.php:18
+msgid "Open product page"
+msgstr ""
+
+#: templates/admin-page.php:109
+msgid "Operator contact"
+msgstr ""
+
+#: includes/class-admin.php:198
+msgid "Operator details are complete"
+msgstr ""
+
+#: templates/admin-page.php:108
+msgid "Operator name"
+msgstr ""
+
+#: templates/admin-page.php:141
+msgid "Pass user selection to Google tag and Google Tag Manager."
+msgstr ""
+
+#: templates/admin-page.php:111
+msgid "Personal data categories"
+msgstr ""
+
+#: templates/admin-page.php:117
+msgid "Personal data consent"
+msgstr ""
+
+#: includes/class-policy-generator.php:36
+msgid "Personal data operator: %1$s. Contact for data processing requests: %2$s."
+msgstr ""
+
+#: includes/class-policy-generator.php:39
+msgid "Personal data processing policy"
+msgstr ""
+
+#: templates/admin-page.php:24
+msgid "Policies"
+msgstr ""
+
+#: templates/admin-page.php:68
+msgid "Prepare your site for publication"
+msgstr ""
+
+#: includes/class-data-consent.php:208 includes/class-data-consent.php:270 templates/admin-page.php:106 templates/consent-interface.php:13
+msgid "Privacy Policy"
+msgstr ""
+
+#: templates/admin-page.php:86
+msgid "Pro features"
+msgstr ""
+
+#: templates/admin-page.php:149
+msgid "Pro Features"
+msgstr ""
+
+#: includes/class-options.php:20
+msgid "Processing requests from site visitors, preparing and executing contracts, providing feedback."
+msgstr ""
+
+#: templates/admin-page.php:64
+msgid "Protected services"
+msgstr ""
+
+#: templates/admin-page.php:50
+msgid "Protection enabled"
+msgstr ""
+
+#: includes/class-policy-generator.php:27
+msgid "Purpose"
+msgstr ""
+
+#: templates/admin-page.php:110
+msgid "Purposes of processing personal data"
+msgstr ""
+
+#: templates/admin-page.php:155
+msgid "px"
+msgstr ""
+
+#: templates/admin-page.php:156
+msgid "Reject button"
+msgstr ""
+
+#: includes/class-options.php:48 templates/consent-interface.php:3
+msgid "Reject optional"
+msgstr ""
+
+#: templates/admin-page.php:36
+msgid "Remaining: automatic - %1$d, manual - %2$d."
+msgstr ""
+
+#: includes/class-options.php:84
+msgid "Remember preferences and make the site easier to use."
+msgstr ""
+
+#: includes/class-options.php:79
+msgid "Required for basic site operation and always enabled."
+msgstr ""
+
+#: templates/admin-page.php:112
+msgid "Retention period"
+msgstr ""
+
+#: templates/admin-page.php:166
+msgid "Right"
+msgstr ""
+
+#: includes/class-service-catalog.php:49
+msgid "Roistat"
+msgstr ""
+
+#: templates/admin-page.php:96
+msgid "Russia: 152-FZ"
+msgstr ""
+
+#: templates/admin-page.php:209
+msgid "Save changes"
+msgstr ""
+
+#: templates/admin-page.php:204
+msgid "Save marks"
+msgstr ""
+
+#: templates/consent-interface.php:36
+msgid "Save selection"
+msgstr ""
+
+#: templates/admin-page.php:23
+msgid "Select a mode and turn on the banner."
+msgstr ""
+
+#: templates/admin-page.php:84
+msgid "Services"
+msgstr ""
+
+#: templates/admin-page.php:129
+msgid "Services and blocking"
+msgstr ""
+
+#: templates/admin-page.php:80
+msgid "Settings navigation"
+msgstr ""
+
+#: templates/admin-page.php:159
+msgid "Settings window title"
+msgstr ""
+
+#: templates/admin-page.php:95
+msgid "Show a consent request to site visitors."
+msgstr ""
+
+#: templates/admin-page.php:123
+msgid "Show mandatory consent in classic checkout and Checkout Block."
+msgstr ""
+
+#: templates/admin-page.php:125
+msgid "Source"
+msgstr ""
+
+#: templates/admin-page.php:139
+msgid "State sharing"
+msgstr ""
+
+#: templates/admin-page.php:180
+msgid "Store in full"
+msgstr ""
+
+#: templates/admin-page.php:160
+msgid "Store logs"
+msgstr ""
+
+#: templates/admin-page.php:60
+msgid "Summary"
+msgstr ""
+
+#: templates/admin-page.php:51
+msgid "Switch color theme"
+msgstr ""
+
+#: templates/admin-page.php:152
+msgid "Text color"
+msgstr ""
+
+#: templates/admin-page.php:82 templates/admin-page.php:102
+msgid "Texts and policies"
+msgstr ""
+
+#: templates/admin-page.php:57
+msgid "The check is completed and the date is saved."
+msgstr ""
+
+#: templates/admin-page.php:190
+msgid "The check is not yet completed"
+msgstr ""
+
+#: templates/admin-page.php:57
+msgid "The checks have been saved. Complete the automatic checks and all manual scenarios."
+msgstr ""
+
+#: includes/class-admin.php:52
+msgid "The checks have changed. Click \"Save checks\"."
+msgstr ""
+
+#: includes/class-admin.php:187
+msgid "The legal regime and version are selected, the banner title and text are filled in."
+msgstr ""
+
+#: templates/admin-page.php:58
+msgid "The log has been cleared."
+msgstr ""
+
+#: includes/class-admin.php:235
+msgid "The mandatory mark and the appearance of an entry in the data consent log were checked."
+msgstr ""
+
+#: includes/class-admin.php:199
+msgid "The operator, contact, purposes, data categories, and retention period are complete."
+msgstr ""
+
+#: includes/class-admin.php:193
+msgid "The privacy policy and cookie policy addresses are filled in."
+msgstr ""
+
+#: includes/class-admin.php:181
+msgid "The public consent interface is available to website visitors."
+msgstr ""
+
+#: templates/admin-page.php:56
+msgid "The settings are saved. If you change the terms of consent, increase its version."
+msgstr ""
+
+#: includes/class-policy-generator.php:27
+msgid "The site uses cookies and similar technologies. You can change your choices at any time through your cookie settings."
+msgstr ""
+
+#: templates/admin-page.php:193
+msgid "The state is calculated based on the saved settings fields."
+msgstr ""
+
+#: templates/admin-page.php:125 templates/admin-page.php:183
+msgid "There are no entries yet."
+msgstr ""
+
+#: templates/admin-page.php:167
+msgid "Top"
+msgstr ""
+
+#: includes/class-service-catalog.php:43
+msgid "Top.Mail.Ru"
+msgstr ""
+
+#: includes/class-options.php:22
+msgid "Until the purposes of processing are achieved or consent is withdrawn, unless a longer period is required by the legislation of the Russian Federation."
+msgstr ""
+
+#: templates/admin-page.php:121
+msgid "Use %privacy_policy% to link to the privacy policy above."
+msgstr ""
+
+#: includes/class-options.php:94
+msgid "Used to personalize advertising and measure campaigns."
+msgstr ""
+
+#: templates/admin-page.php:190
+msgid "Verification completed"
+msgstr ""
+
+#: includes/class-admin.php:242
+msgid "Verified that consent is required in the active checkout and that an order-linked record is created."
+msgstr ""
+
+#: templates/admin-page.php:125 templates/admin-page.php:183
+msgid "Version"
+msgstr ""
+
+#: templates/admin-page.php:62 templates/admin-page.php:97
+msgid "Version of consent"
+msgstr ""
+
+#: templates/admin-page.php:167
+msgid "Vertical"
+msgstr ""
+
+#: templates/admin-page.php:18
+msgid "View Pro Features"
+msgstr ""
+
+#: templates/admin-page.php:102
+msgid "Visible to the visitor"
+msgstr ""
+
+#: includes/class-service-catalog.php:13
+msgid "Visit statistics and user behavior. Connection via WordPress and code inserted into the template are supported."
+msgstr ""
+
+#: includes/class-service-catalog.php:37
+msgid "VK Advertising Pixel"
+msgstr ""
+
+#: templates/admin-page.php:142
+msgid "Waiting for update"
+msgstr ""
+
+#: includes/class-options.php:15
+msgid "We use cookies"
+msgstr ""
+
+#: includes/class-options.php:16
+msgid "We use cookies for site operation, analytics and service improvement. You can accept all cookies or select categories."
+msgstr ""
+
+#: templates/admin-page.php:164
+msgid "With a vertical center, the banner becomes compact, and the buttons are located below the text."
+msgstr ""
+
+#: includes/class-admin.php:241 includes/class-data-consent.php:217
+msgid "WooCommerce Order"
+msgstr ""
+
+#: includes/class-service-catalog.php:12
+msgid "Yandex Metrica"
+msgstr ""
+
