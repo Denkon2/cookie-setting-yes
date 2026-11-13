@@ -33,6 +33,10 @@ Features:
 
 All data stays in WordPress. The plugin does not use an external SaaS service.
 
+== Development ==
+
+Public source repository: https://github.com/Denkon2/cookie-setting-yes
+
 == Installation ==
 
 1. Activate the plugin on the Plugins screen.
